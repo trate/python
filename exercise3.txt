@@ -1,0 +1,3 @@
+Petrov 25000
+Sidorov 15000
+Pupkin 19000
